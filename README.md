@@ -8,4 +8,8 @@ This uses the standard hull-style plates in the pandemonium repo, and your choic
 
 Has space for smaller batteries that fit the standard case.
 
-I have only tested it as a FDM 3d print, so obviously use your best judgement for having one manufactured.  
+I have only tested it as a FDM 3d print, so use your best judgement for having one manufactured.
+
+plans:
+narrower (no battery) version
+knuckhull
