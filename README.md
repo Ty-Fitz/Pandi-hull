@@ -6,4 +6,6 @@ https://github.com/calvin-mcd/pandemonium
 
 This uses the standard hull-style plates in the pandemonium repo, and your choice of either m2 heatset screws or m3 self tapping screws
 
+Has space for smaller batteries that fit the standard case.
+
 I have only tested it as a FDM 3d print, so obviously use your best judgement for having one manufactured.  
